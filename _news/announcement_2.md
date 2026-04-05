@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Submitted my first, first-authored conference paper to LREC 2026. Results out Feb. 13th 2026.
+Submitted my first, first-authored conference paper to LREC 2026.
