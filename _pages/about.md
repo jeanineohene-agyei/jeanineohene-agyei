@@ -23,8 +23,4 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m Jeanine, a Master’s student in Computer Science at UC Davis and a member of the Laboratory for AI, Robotics, and Automation (LARA), where I am preparing to conduct my thesis research. I earned my Honors Bachelor of Science in Computer Science and Mathematics from the University of Toronto in June 2025, graduating with Distinction. My graduate research is advised by [Prof. Iman Soltani](https://www.lara-soltani.com/) and focuses on learning-based methods for interactive perception and decision-making systems.
-
-My research interests center on active vision and world modeling, with an emphasis on efficient visual representations, adaptive perception, and predictive modeling for long-horizon interaction and reasoning in dynamic environments.
-
-I’m always interested in collaborations related to active vision and world modeling. If our interests overlap, feel free to reach out.
+I'm Jeanine, a Master's student in Computer Science at UC Davis and a member of the Laboratory for AI, Robotics, and Automation (LARA). I earned my Honors Bachelor of Science in Computer Science and Mathematics from the University of Toronto in June 2025, graduating with Distinction. My graduate research is advised by Prof. Iman Soltani and spans projects in medical imaging and autonomous systems, with a focus on developing and applying machine learning methods to real-world problems. My broader research interests are in applied AI/ML, with a focus on building new methods and algorithms for real-world perception and decision-making problems.
